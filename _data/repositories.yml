@@ -1,14 +1,17 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lainwiredin
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jie-jw-wu/clarify-coder
+  - LakshyaKarwa/mentalHealthChat
+  - lainwiredin/WhizTareefa
+  - lainwiredin/gunsVganja
+  - lainwiredin/TxtGenGuard
+  - lainwiredin/SciTraction
+  - lainwiredin/MiniClashia
+  - lainwiredin/mademoi-shell-e
+  - lainwiredin/CoCoGenV2
+  - lainwiredin/WikipediaSearchEngine
+  - lainwiredin/GraphColoringUsingLocks
