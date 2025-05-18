@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Palash Nivas/Old Boys Hostel</p>
+    <p>IIIT Hyderabad, Professor CR Rao Road</p>
+    <p>Gachibowli, Telangana 500032</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Manav Chaudhary. Currently, I work as an NLP Engineer at SentiSum, where I focus on building intelligent language models to improve customer support analytics through advanced summarization and clustering techniques. Soon, I’ll be joining Microsoft as a Technical Program Manager (TPM), a role that excites me because it perfectly combines my passion for technology, leadership, and research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my dual degree (B.Tech + M.S.) in Computer Science and Engineering from IIIT Hyderabad, where I also did extensive research at the Information Retrieval and Extraction Lab (iREL) advised by Dr. Vasudeva Varma. My work spans across multiple domains including large language model robustness, code generation, mental health AI, and healthcare applications. Along the way, I collaborated with the Applied AI Research Centre, IIIT Hyderabad and the FARD Lab at the University of British Columbia (UBC), which led to publications in renowned conferences and journals like ACL, ICSE and Nature Scientific Reports.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interests lie broadly in AI research, especially in natural language processing and large language models, while also exploring how AI can contribute meaningfully to healthcare and education. Beyond research, I’ve gained leadership experience as a Teaching Associate for multiple courses, where I managed projects and guided large teams. This blend of hands-on research and leadership has shaped my approach to innovation and problem-solving.
+
+Looking ahead, I am thrilled about the opportunity at Microsoft to merge research with management. I believe that combining deep technical insight with strong leadership creates the best environment for impactful solutions. My goal is to keep advancing AI research while driving programs that bring these innovations to life in the real world.
