@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-thrilled-to-share-that-our-paper-screening-of-oral-potentially-malignant-disorders-and-oral-cancer-using-deep-learning-models-has-been-accepted-in-scientific-reports-a-nature-portfolio-journal-2025-this-research-was-part-of-my-internship-at-the-applied-ai-research-centre-inai-iiit-hyderabad-a-collaborative-initiative-by-iiit-h-intel-the-government-of-telangana-and-phfi-we-applied-ai-to-improve-early-detection-of-oral-cancer-through-deep-learning-and-image-analysis-grateful-to-be-part-of-impactful-healthcare-research-using-ai",
+          title: 'Thrilled to share that our paper, “Screening of Oral Potentially Malignant Disorders and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
