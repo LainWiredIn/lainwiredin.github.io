@@ -2,7 +2,7 @@
 layout: book-review
 title: Animal Farm
 author: George Orwell
-cover: assets/img/book_covers/animal_farm.png
+cover: assets/img/book_covers/animal_farm.jpg
 olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Classics Fiction Dystopia Fantasy School Politics Literature Science Fiction
