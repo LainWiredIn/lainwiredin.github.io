@@ -7,13 +7,11 @@ first_name: Manav
 middle_name: 
 last_name: Chaudhary
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to connect with me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+  Profile Webpage for Manav Chaudhary, Technical Program Manager at Microsoft.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Thanks for stopping by!
 keywords: manav chaudhary, manav, chaudhary, microsoft, sentisum, iiit, hyderabad, nlp, llm, judge, research, deep learning, language model, neural networks, program management, product management, tpm, pm # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 😼 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -42,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
