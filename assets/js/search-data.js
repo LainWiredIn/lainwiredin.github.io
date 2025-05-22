@@ -490,8 +490,15 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-letterboxd_social',
+        title: 'Letterboxd_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://letterboxd.com/conundramatic/", "_blank");
+        },
+      },{
+        id: 'social-goodreads_social',
+        title: 'Goodreads_social',
         section: 'Socials',
         handler: () => {
           window.open("https://www.goodreads.com/user/show/186795199-manav-chaudhary", "_blank");
