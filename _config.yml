@@ -181,6 +181,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/projects.md
   - _projects/
+  - _pages/cv.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
@@ -647,3 +648,7 @@ jsonresume:
   - languages
   - interests
   - references
+
+# display CV in different tab
+
+cv_pdf: ANAD_Resume.pdf

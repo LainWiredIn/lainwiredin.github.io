@@ -1,7 +1,7 @@
 ---
-layout: cv
-permalink: /assets/pdf/ANAD_Resume.pdf/
-title: CV
+layout:
+permalink: /assets/pdf/ANAD_Resume.pdf
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: ANAD_Resume.pdf # you can also use external links here
