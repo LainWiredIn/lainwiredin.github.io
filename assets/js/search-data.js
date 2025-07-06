@@ -365,6 +365,9 @@ ninja.data = [{
             },},{id: "news-thrilled-to-share-that-our-paper-screening-of-oral-potentially-malignant-disorders-and-oral-cancer-using-deep-learning-models-has-been-accepted-in-scientific-reports-a-nature-portfolio-journal-2025-this-research-was-part-of-my-internship-at-the-applied-ai-research-centre-inai-iiit-hyderabad-a-collaborative-initiative-by-iiit-h-intel-the-government-of-telangana-and-phfi-we-applied-ai-to-improve-early-detection-of-oral-cancer-through-deep-learning-and-image-analysis-grateful-to-be-part-of-impactful-healthcare-research-using-ai",
           title: 'Thrilled to share that our paper, “Screening of Oral Potentially Malignant Disorders and...',
           description: "",
+          section: "News",},{id: "news-happy-to-share-that-i-ve-successfully-defended-my-thesis-titled-you-can-not-trust-reliability-and-robustness-of-llms-as-human-like-annotators-and-judges-this-work-explores-critical-questions-about-the-reliability-robustness-and-alignment-of-large-language-models-llms-when-used-for-annotation-and-evaluation-tasks-in-nlp-it-investigates-the-indistinguishability-of-llm-generated-and-human-annotations-the-alignment-and-reliability-of-llms-as-subjective-judges-of-language-quality-and-their-susceptibility-to-misinformation-in-evaluation-settings-two-papers-from-this-work-have-been-accepted-and-we-re-actively-working-on-future-directions-i-m-deeply-grateful-to-my-advisor-vasudeva-varma-reviewers-vikram-pudi-and-asif-ekbal-my-collaborators-and-the-irel-lab-at-iiit-hyderabad-joining-this-lab-has-truly-been-a-life-changing-decision-and-i-m-thankful-for-the-support-and-freedom-i-ve-received-throughout-this-journey",
+          title: 'Happy to share that I’ve successfully defended my thesis titled “You Can (Not)...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
