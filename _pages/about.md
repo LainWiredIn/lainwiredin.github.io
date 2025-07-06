@@ -24,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Namaste! I am currently working as an NLP Engineer at SentiSum, where I focus on building LLM-powered intelligent systems to improve customer support analytics. I am soon joining Microsoft as a Technical Program Manager (TPM)!
+Namaste! I am currently working at [SentiSum](https://sentisum.com), building ML-powered intelligent systems to improve customer experience analytics — leveraging Voice of Customer data to help brands identify hidden friction, resolve barrier issues, and recover potential revenue loss.
 
-I completed my dual degree (B.Tech + M.S.) in Computer Science and Engineering from IIIT Hyderabad, where I also work as a Research Assistant at the Information Retrieval and Extraction Lab (iREL) advised by Dr. Vasudeva Varma. My work spans across multiple domains including evaluation frameworks and robustness, code generation, mental health AI, and healthcare applications. Along the way, I collaborated with the Applied AI Research Centre, IIIT Hyderabad and the FARD Lab at the University of British Columbia (UBC), all of which led to publications in renowned conferences and journals like ACL, ICSE and Nature Scientific Reports.
+I recently completed my dual degree (B.Tech + M.S.) in Computer Science and Engineering from IIIT Hyderabad, where I also worked as a Research Assistant at the [Information Retrieval and Extraction Lab (iREL)](https://irel.iiit.ac.in), advised by Dr. Vasudeva Varma. My research has spanned reference-free evaluation, LLM robustness, code generation, healthcare, education, and mental health AI — leading to publications in **ACL**, **ICSE**, and **Nature Scientific Reports**.
 
-My research interests lie broadly in deep learning, especially in natural language processing and large language models, while also exploring how AI can contribute meaningfully to healthcare and education. I believe that combining deep technical insight with strong leadership creates the best environment for meaningful solutions. My goal is to keep advancing AI research while driving impactful products that bring these innovations to life in the real world.
+My core research interests lie in **LLM evaluation and robustness**, **machine-generated text detection**, **explainable AI** and **AI for healthcare and education**. I believe that bridging strong engineering foundations with user-facing impact is how AI best delivers on its promise — and that’s what I strive to build in every endeavour.
+---
+
