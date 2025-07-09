@@ -29,5 +29,6 @@ Namaste! I am currently working at [SentiSum](https://sentisum.com), building ML
 I recently completed my dual degree (B.Tech + M.S.) in Computer Science and Engineering from IIIT Hyderabad, where I also worked as a Research Assistant at the [Information Retrieval and Extraction Lab (iREL)](https://irel.iiit.ac.in), advised by Dr. Vasudeva Varma. My research has spanned reference-free evaluation, LLM robustness, code generation, healthcare, education, and mental health AI — leading to publications in **ACL**, **ICSE**, and **Nature Scientific Reports**.
 
 My core research interests lie in **LLM evaluation and robustness**, **machine-generated text detection**, **explainable AI** and **AI for healthcare and education**. I believe that bridging strong engineering foundations with user-facing impact is how AI best delivers on its promise — and that’s what I strive to build in every endeavour.
+
 ---
 
