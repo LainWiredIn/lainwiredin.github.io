@@ -368,6 +368,9 @@ ninja.data = [{
           section: "News",},{id: "news-happy-to-share-that-i-ve-successfully-defended-my-thesis-titled-you-can-not-trust-reliability-and-robustness-of-llms-as-human-like-annotators-and-judges-this-work-explores-critical-questions-about-the-reliability-robustness-and-alignment-of-large-language-models-llms-when-used-for-annotation-and-evaluation-tasks-in-nlp-it-investigates-the-indistinguishability-of-llm-generated-and-human-annotations-the-alignment-and-reliability-of-llms-as-subjective-judges-of-language-quality-and-their-susceptibility-to-misinformation-in-evaluation-settings-two-papers-from-this-work-have-been-accepted-and-we-re-actively-working-on-future-directions-i-m-deeply-grateful-to-my-advisor-vasudeva-varma-reviewers-vikram-pudi-and-asif-ekbal-my-collaborators-and-the-irel-lab-at-iiit-hyderabad-joining-this-lab-has-truly-been-a-life-changing-decision-and-i-m-thankful-for-the-support-and-freedom-i-ve-received-throughout-this-journey",
           title: 'Happy to share that I’ve successfully defended my thesis titled “You Can (Not)...',
           description: "",
+          section: "News",},{id: "news-after-a-rewarding-6-month-internship-at-sentisum-where-i-tackled-challenges-at-the-intersection-of-nlp-engineering-and-active-research-i-m-thrilled-to-share-that-i-am-joining-sentisum-full-time-as-an-ai-product-engineer-my-journey-so-far-has-deeply-involved-both-hands-on-engineering-and-fundamental-research-discovering-innovative-solutions-prototyping-scalable-nlp-systems-and-turning-ideas-into-real-world-impact-in-my-new-role-i-ll-continue-developing-and-researching-advanced-ai-ml-solutions-for-customer-analytics-helping-businesses-better-understand-and-act-on-the-voice-of-their-customers",
+          title: 'After a rewarding 6-month internship at SentiSum, where I tackled challenges at the...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
