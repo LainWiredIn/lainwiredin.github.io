@@ -371,6 +371,12 @@ ninja.data = [{
           section: "News",},{id: "news-after-a-rewarding-6-month-internship-at-sentisum-where-i-tackled-challenges-at-the-intersection-of-nlp-engineering-and-active-research-i-m-thrilled-to-share-that-i-am-joining-sentisum-full-time-as-an-ai-product-engineer-my-journey-so-far-has-deeply-involved-both-hands-on-engineering-and-fundamental-research-discovering-innovative-solutions-prototyping-scalable-nlp-systems-and-turning-ideas-into-real-world-impact-in-my-new-role-i-ll-continue-developing-and-researching-advanced-ai-ml-solutions-for-customer-analytics-helping-businesses-better-understand-and-act-on-the-voice-of-their-customers",
           title: 'After a rewarding 6-month internship at SentiSum, where I tackled challenges at the...',
           description: "",
+          section: "News",},{id: "news-thrilled-to-share-that-i-ve-been-promoted-to-senior-product-engineer-at-sentisum-my-primary-contribution-was-spearheading-and-building-from-0-1-a-new-taxonomy-engine-that-produces-multi-level-granular-root-cause-hierarchies-alongside-a-metadata-enrichment-pipeline-cutting-client-onboarding-from-weeks-of-manual-work-down-to-24-hours-without-requiring-extensive-hand-curated-training-data-and-working-across-domains-and-data-sources-excited-to-keep-building-ml-powered-systems-for-customer-experience-analytics-and-take-on-more-ownership-as-we-push-the-product-forward",
+          title: 'Thrilled to share that I’ve been promoted to Senior Product Engineer at SentiSum!...',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-our-paper-graph-guided-passage-retrieval-for-author-centric-structured-feedback-autorev-has-been-accepted-at-the-doc-insights-workshop-emnlp-2026-the-work-introduces-a-graph-based-retrieval-augmented-framework-that-generates-structured-actionable-feedback-for-researchers-prior-to-formal-peer-review-grateful-to-my-co-authors-and-collaborators-for-this-one",
+          title: 'Excited to share that our paper, “Graph-Guided Passage Retrieval for Author-Centric Structured Feedback”...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
