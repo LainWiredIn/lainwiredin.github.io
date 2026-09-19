@@ -1,14 +1,14 @@
 ---
 ---
 @misc{chitale2025autorevautomaticpeerreview,
-      title={AutoRev: Automatic Peer Review System for Academic Research Papers}, 
-      author={Maitreya Prafulla Chitale and Ketaki Mangesh Shetye and Harshit Gupta and Manav Chaudhary and Vasudeva Varma},
+      title={Graph-Guided Passage Retrieval for Author-Centric Structured Feedback},
+      author={Maitreya Prafulla Chitale and Ketaki Mangesh Shetye and Harshit Gupta and Manav Chaudhary and Manish Shrivastava and Vasudeva Varma},
       arxiv={2505.14376},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      abstract = "Generating a review for an academic research paper is a complex task that requires a deep understanding of the document's content and the interdependencies between its sections. It demands not only insight into technical details but also an appreciation of the paper's overall coherence and structure. Recent methods have predominantly focused on fine-tuning large language models (LLMs) to address this challenge. However, they often overlook the computational and performance limitations imposed by long input token lengths. To address this, we introduce AutoRev, an Automatic Peer Review System for Academic Research Papers. Our novel framework represents an academic document as a graph, enabling the extraction of the most critical passages that contribute significantly to the review. This graph-based approach demonstrates effectiveness for review generation and is potentially adaptable to various downstream tasks, such as question answering, summarization, and document representation. When applied to review generation, our method outperforms SOTA baselines by an average of 58.72% across all evaluation metrics. We hope that our work will stimulate further research in applying graph-based extraction techniques to other downstream tasks in NLP. We plan to make our code public upon acceptance.",
-      additional_info={Under review at ARR 2025}
-      url={https://arxiv.org/abs/2505.14376}, 
+      abstract = "Obtaining high-quality, pre-submission feedback is a critical bottleneck in the academic publication lifecycle for researchers. We introduce AutoRev, an automated author-centric feedback system that generates structured, actionable guidance prior to formal peer review. AutoRev employs a graph-based retrieval-augmented generation framework that models each paper as a hierarchical document graph, integrating textual and structural representations to retrieve salient content efficiently. By leveraging graph-based passage retrieval, AutoRev substantially reduces LLM input context length, leading to higher-quality feedback generation. Experimental results demonstrate that AutoRev significantly outperforms baselines across multiple automatic evaluation metrics, while achieving strong performance in human evaluations. Code will be released upon acceptance.",
+      additional_info={Accepted at the Doc Insights Workshop, EMNLP 2026}
+      url={https://arxiv.org/abs/2505.14376v3},
       preview={autorev.png},
 }
 
