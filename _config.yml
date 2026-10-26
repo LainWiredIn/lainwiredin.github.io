@@ -10,10 +10,10 @@ last_name: Chaudhary
 contact_note: >
   Best way to connect with me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Profile Webpage for Manav Chaudhary, Technical Program Manager at Microsoft.
+  Manav Chaudhary — Senior Product Engineer at SentiSum, building AI-powered customer experience analytics. IIIT Hyderabad CSE (B.Tech + M.S.), NLP/LLM researcher, and builder.
 footer_text: >
   Thanks for stopping by!
-keywords: manav chaudhary, manav, chaudhary, microsoft, sentisum, iiit, hyderabad, nlp, llm, judge, research, deep learning, language model, neural networks, program management, product management, tpm, pm # add your own keywords or leave empty
+keywords: manav chaudhary, manav, chaudhary, sentisum, senior product engineer, product engineering, product management, iiit, hyderabad, nlp, llm, llm evaluation, taxonomy, customer experience, voice of customer, research, deep learning, language model, founders office, go-to-market # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 😼 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
